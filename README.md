@@ -4,7 +4,7 @@ This repository will continue to introduce Python programming language applying 
 Reference material : Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. Mathematics for machine learning. Cambridge University Press, 2020. https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/.
 1. Investigate a dataset: how to retrieve & pre-process dataset.
 2. Data analysis process, Investigate a dataset: choose one biomedical dataset and investigate using Numpy + Pandas.
-3. Machine learning fundamentals and implementation, Nearest Neighbor: understanding & running kNN classifier using Scikit Learn - Support Vector Machines: how SVM works and implement using Scikit Learn
+3. Machine learning fundamentals and implementation, Nearest Neighbor: understanding & running kNN classifier using Scikit Learn - Support Vector Machines: how SVM works and implement using Scikit Learn.
 4. Machine learning tree algorithms, Ensemble learning - Machine learning regression model.
 5. How to improve the performance, Hyperparameter optimization and feature selection.
 6. Visualization in machine learning models.
